@@ -1,4 +1,4 @@
-[Uploading neon_harbor_v6.html…]()
+[v](https://aiuserelfo-ai.github.io/gta.html)[elfo_y_v67.html](https://github.com/user-attachments/files/33812119/elfo_y_v67.html)
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
