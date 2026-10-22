@@ -1,4 +1,4 @@
-[neon_harbor_v6.html](https://github.com/user-attachments/files/33811860/neon_harbor_v6.html)[neon_harbor_v6.html](https://github.com/user-attachments/files/33811868/neon_harbor_v6.html)
+[Uploading neon_harbor_v6.html…]()
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
